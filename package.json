@@ -1,6 +1,6 @@
 {
-        "author":"Hilary Titus Naor",
 	"name": "fcc-learn-npm-package-json",
+	"author":"Hilary Titus Naor",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
